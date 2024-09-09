@@ -9,6 +9,7 @@ public class StudentController {
     }
     public void exampleMethod() {
         // Método de ejemplo
+        //cambio 1
         System.out.println("Este es un método de ejemplo");
     }
 }
